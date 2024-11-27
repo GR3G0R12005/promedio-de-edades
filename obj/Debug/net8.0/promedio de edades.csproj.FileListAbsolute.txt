@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\bin\Debug\net8.0\promedio de edades.exe
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\bin\Debug\net8.0\promedio de edades.deps.json
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\bin\Debug\net8.0\promedio de edades.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\bin\Debug\net8.0\promedio de edades.dll
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\bin\Debug\net8.0\promedio de edades.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.dll
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\refint\promedio de edades.dll
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\promedio de edades.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\Github\promedio de edades\obj\Debug\net8.0\ref\promedio de edades.dll
